@@ -1,0 +1,96 @@
+.container {
+    width: 1440px;
+    height: 900px;
+
+}
+
+.image-login img {
+    width: 720px;
+    height: 900px;
+}
+
+h3 {
+    position: absolute;
+    width: 76px;
+    height: 19px;
+    left: 842px;
+    top: 240px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+h1 {
+
+    position: absolute;
+    width: 392px;
+    height: 38px;
+    left: 841px;
+    top: 268px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #000000;
+
+}
+
+.input-email {
+    position: absolute;
+    width: 476px;
+    height: 51px;
+    left: 842px;
+    top: 338px;
+    background-color: rgb(251, 247, 247);
+
+
+}
+
+.input-senha {
+    position: absolute;
+    width: 476px;
+    height: 51px;
+    left: 842px;
+    top: 405px;
+    background-color: rgb(251, 247, 247);
+
+}
+
+.btn-login {
+    position: absolute;
+    width: 475px;
+    height: 50px;
+    left: 843px;
+    top: 528px;
+    background-color: #04C45C;
+    color: #FFFFFF;
+
+
+
+}
+
+.cadastro {
+    position: absolute;
+    width: 235px;
+    height: 19px;
+    left: 963px;
+    top: 674px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    text-align: center;
+
+    color: #000000;
+}
